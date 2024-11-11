@@ -4,7 +4,7 @@
 
 PGAE is the code for our paper "Pessimistic Adversarially Regularized Learning for Graph Embedding", which is published in ADMA 2023. 
 
-![model](./img/model.jpg)
+![model](./model.jpg)
 
 ## Citation
 
