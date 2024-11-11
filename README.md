@@ -4,6 +4,8 @@
 
 PGAE is the code for our paper "Pessimistic Adversarially Regularized Learning for Graph Embedding", which is published in ADMA 2023. 
 
+![model](./img/model.jpg)
+
 ## Citation
 
 ```
@@ -20,3 +22,6 @@ PGAE is the code for our paper "Pessimistic Adversarially Regularized Learning f
 ## Data
 
 In this example, we load citation network data (Cora, Citeseer or Pubmed). The original datasets can be found here: http://linqs.cs.umd.edu/projects/projects/lbc/ and here (in a different format): https://github.com/kimiyoung/planetoid
+
+## Usage
+- run "./pgae/run.py"
