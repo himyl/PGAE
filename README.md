@@ -25,5 +25,13 @@ PGAE is the code for our paper "Pessimistic Adversarially Regularized Learning f
 
 In this example, we load citation network data (Cora, Citeseer or Pubmed). The original datasets can be found here: http://linqs.cs.umd.edu/projects/projects/lbc/ and here (in a different format): https://github.com/kimiyoung/planetoid
 
+## Overview
+Here we provide an implementation of PAGAE/PAGAEpo in PyTorch, along with a minimal execution example (on the Cora dataset). The repository is organised as follows:
+- `pgae/data/` contains the necessary dataset files;
+- `pgae/layers.py` contains the implementation of a GCN layer;
+- `pgae/utils.py` contains the necessary processing function.
+- `pgae/model.py` contains the implementation of a GAE model, discriminator model and mutual information estimator model.
+- `pgae/optimizer.py` contains the implementation of the reconstruction loss.
+
 ## Usage
 - run "./pgae/run.py"
