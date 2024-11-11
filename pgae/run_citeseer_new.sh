@@ -1,0 +1,41 @@
+python run_model_data_alpha.py arga_ae citeseer 0
+# python run_model_data_alpha.py arga_ae citeseer 0.01
+# python run_model_data_alpha.py arga_ae citeseer 0.02
+# python run_model_data_alpha.py arga_ae citeseer 0.03
+# python run_model_data_alpha.py arga_ae citeseer 0.04
+# python run_model_data_alpha.py arga_ae citeseer 0.05
+# python run_model_data_alpha.py arga_ae citeseer 0.06
+# python run_model_data_alpha.py arga_ae citeseer 0.07
+# python run_model_data_alpha.py arga_ae citeseer 0.08
+# python run_model_data_alpha.py arga_ae citeseer 0.09
+# python run_model_data_alpha.py arga_ae citeseer 0.1
+# python run_model_data_alpha.py arga_ae citeseer 0.3
+# python run_model_data_alpha.py arga_ae citeseer 0.5
+# python run_model_data_alpha.py arga_ae citeseer 0.7
+# python run_model_data_alpha.py arga_ae citeseer 1
+# python run_model_data_alpha.py arga_ae citeseer 3
+# python run_model_data_alpha.py arga_ae citeseer 5
+# python run_model_data_alpha.py arga_ae citeseer 7
+# python run_model_data_alpha.py arga_ae citeseer 10
+# python run_model_data_alpha.py arga_ae citeseer 100
+
+python run_model_data_alpha.py arga_vae citeseer 0
+# python run_model_data_alpha.py arga_vae citeseer 0.01
+# python run_model_data_alpha.py arga_vae citeseer 0.02
+# python run_model_data_alpha.py arga_vae citeseer 0.03
+# python run_model_data_alpha.py arga_vae citeseer 0.04
+# python run_model_data_alpha.py arga_vae citeseer 0.05
+# python run_model_data_alpha.py arga_vae citeseer 0.06
+# python run_model_data_alpha.py arga_vae citeseer 0.07
+# python run_model_data_alpha.py arga_vae citeseer 0.08
+# python run_model_data_alpha.py arga_vae citeseer 0.09
+# python run_model_data_alpha.py arga_vae citeseer 0.1
+# python run_model_data_alpha.py arga_vae citeseer 0.3
+# python run_model_data_alpha.py arga_vae citeseer 0.5
+# python run_model_data_alpha.py arga_vae citeseer 0.7
+# python run_model_data_alpha.py arga_vae citeseer 1
+# python run_model_data_alpha.py arga_vae citeseer 3
+# python run_model_data_alpha.py arga_vae citeseer 5
+# python run_model_data_alpha.py arga_vae citeseer 7
+# python run_model_data_alpha.py arga_vae citeseer 10
+# python run_model_data_alpha.py arga_vae citeseer 100
